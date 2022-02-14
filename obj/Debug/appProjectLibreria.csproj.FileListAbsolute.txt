@@ -1,0 +1,12 @@
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\bin\Debug\appProjectLibreria.exe.config
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\bin\Debug\appProjectLibreria.exe
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\bin\Debug\appProjectLibreria.pdb
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.Form1.resources
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.Properties.Resources.resources
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.exe
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.pdb
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\bin\Debug\Oracle.DataAccess.dll
+D:\UNIVERSIDAD\QUINTO SEMESTRE\Laboratorio de Bases de Datos II\Visual Studio\Proyecto-libreria-mfcaicedo\appProjectLibreria\obj\Debug\appProjectLibreria.csproj.CopyComplete
